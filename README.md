@@ -1,6 +1,6 @@
 ## Hi world 👋
 
--  Visit my resume here C:/Users/saksh/Downloads/MY%20RESUME.pdf
+-  Visit my resume here "C:\Users\saksh\OneDrive\Desktop\SAKSHIS RESUME.pdf"
 - 👯 I’m looking to collaborate on web developments,mobile apps
 - 📫 Reach me through Email Id:sakshibs977@gmail.com
 - Check my linkedin profile https://www.linkedin.com/in/sakshi-b-s-050093290
