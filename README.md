@@ -1,6 +1,6 @@
 ## Hi world 👋
 
--  Visit my resume here (https://github.com/sakshi983-gf/MyResume)
+-  Visit my resume here SAKSHIS RESUME (1).pdf
 - 👯 I’m looking to collaborate on web developments,mobile apps
 - 📫 Reach me through Email Id:sakshibs977@gmail.com
 - Check my linkedin profile https://www.linkedin.com/in/sakshi-b-s-050093290
